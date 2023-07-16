@@ -1,0 +1,17 @@
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+D:\Bradley\Documents\Purdue\IT232\Week 2\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll

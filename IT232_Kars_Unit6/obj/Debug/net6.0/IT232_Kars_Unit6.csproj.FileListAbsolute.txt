@@ -1,0 +1,15 @@
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\bin\Debug\net6.0\IT232_Kars_Unit6.exe
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\bin\Debug\net6.0\IT232_Kars_Unit6.deps.json
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\bin\Debug\net6.0\IT232_Kars_Unit6.runtimeconfig.json
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\bin\Debug\net6.0\IT232_Kars_Unit6.dll
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\bin\Debug\net6.0\IT232_Kars_Unit6.pdb
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\obj\Debug\net6.0\IT232_Kars_Unit6.csproj.AssemblyReference.cache
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\obj\Debug\net6.0\IT232_Kars_Unit6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\obj\Debug\net6.0\IT232_Kars_Unit6.AssemblyInfoInputs.cache
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\obj\Debug\net6.0\IT232_Kars_Unit6.AssemblyInfo.cs
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\obj\Debug\net6.0\IT232_Kars_Unit6.csproj.CoreCompileInputs.cache
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\obj\Debug\net6.0\IT232_Kars_Unit6.dll
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\obj\Debug\net6.0\refint\IT232_Kars_Unit6.dll
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\obj\Debug\net6.0\IT232_Kars_Unit6.pdb
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\obj\Debug\net6.0\IT232_Kars_Unit6.genruntimeconfig.cache
+D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit6\obj\Debug\net6.0\ref\IT232_Kars_Unit6.dll
