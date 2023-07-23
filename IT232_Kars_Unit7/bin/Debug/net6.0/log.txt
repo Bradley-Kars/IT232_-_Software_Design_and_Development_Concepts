@@ -1,0 +1,4 @@
+Attempted to divide by zero.
+Could not find file 'D:\Bradley\Documents\Purdue\IT232\IT232_Kars_Unit7\bin\Debug\net6.0\NoFileNamedThis.txt'.
+Index was outside the bounds of the array.
+Object reference not set to an instance of an object.

@@ -1,0 +1,4 @@
+Attempted to divide by zero.
+Could not find file 'C:\NoFileNamedThis.txt'.
+Index was outside the bounds of the array.
+Object reference not set to an instance of an object.
